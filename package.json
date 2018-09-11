@@ -8,7 +8,7 @@
     "url": "https://github.com/dinesh-rawat/react-movie-playlist/issues"
   },
   "scripts": {
-    "start": "webpack-dev-server --config webpack.dev.config.js o--open",
+    "start": "webpack-dev-server --config webpack.dev.config.js --open",
     "build": "webpack --config webpack.prod.config.js"
   },
   "author": "Dinesh Rawat",
