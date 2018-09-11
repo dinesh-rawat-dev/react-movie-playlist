@@ -15,7 +15,7 @@ Some more webpack plugins:
 > npm i extract-text-webpack-plugin@next style-loader css-leader js-loader html-webpack-plugin -D
 
 Details:
-
+-------
 - extract-text-webpack-plugin@next plugin extract out the css from js bundle file and make a separate css bundle file.
 
 - style-loader and css-leader: These are for loading CSS files.
@@ -26,7 +26,7 @@ Details:
 
 If you don't understand the above commands/plugins just install them for the time being.
 
-###Directory stucture
+##### Directory stucture
 
 
 ├── src <br>
@@ -38,7 +38,7 @@ If you don't understand the above commands/plugins just install them for the tim
 ├── .babelrc<br>
 └── README.md
 
-####.babelrc
+#### .babelrc
 The `.babelrc` contains the code for the presets:
 
 `
@@ -51,7 +51,7 @@ The `.babelrc` contains the code for the presets:
 
 Thats it!
 
-#Running the movie playlist
+# Running the movie playlist
 
 Running the movie playlist in development mode-
 
