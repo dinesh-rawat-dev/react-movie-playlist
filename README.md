@@ -52,6 +52,7 @@ The `.babelrc` contains the code for the presets:
 Thats it!
 
 # Running the movie playlist
+![Movie Playlist](https://ibb.co/nQCes9)
 
 Running the movie playlist in development mode-
 
