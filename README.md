@@ -1,5 +1,5 @@
 # React-movie-playlist
-[url=https://ibb.co/nQCes9][img]https://preview.ibb.co/k6JKs9/5b979cf00b175124066495.gif[/img][/url]
+
 ![Movie Playlist](https://preview.ibb.co/k6JKs9/5b979cf00b175124066495.gif)
 
 
