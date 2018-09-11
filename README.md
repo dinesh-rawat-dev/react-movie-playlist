@@ -14,7 +14,7 @@ Installing babel transpilers:
 
 Some more webpack plugins:
 
-> npm i extract-text-webpack-plugin@next style-loader css-leader js-loader html-webpack-plugin -D
+> npm i extract-text-webpack-plugin style-loader js-loader html-webpack-plugin -D
 
 Installing ReactJS:
 
