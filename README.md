@@ -16,6 +16,11 @@ Some more webpack plugins:
 
 > npm i extract-text-webpack-plugin@next style-loader css-leader js-loader html-webpack-plugin -D
 
+Installing ReactJS:
+
+> npm i react react-dom
+
+
 Details:
 -------
 - extract-text-webpack-plugin@next plugin extract out the css from js bundle file and make a separate css bundle file.
