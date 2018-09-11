@@ -1,0 +1,32 @@
+{
+  "name": "movie-playlist",
+  "version": "1.0.0",
+  "description": "A simple react movie playlist",
+  "main": "index.js",
+  "homepage": "https://github.com/dinesh-rawat/react-movie-playlist/blob/master/README.md ",
+  "bugs": {
+    "url": "https://github.com/dinesh-rawat/react-movie-playlist/issues"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --config webpack.dev.config.js o--open",
+    "build": "webpack --config webpack.prod.config.js"
+  },
+  "author": "Dinesh Rawat",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.2",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "html-webpack-plugin": "^3.2.0",
+    "style-loader": "^0.23.0",
+    "webpack": "^4.17.2",
+    "webpack-dev-server": "^3.1.8"
+  },
+  "dependencies": {
+    "css-loader": "^1.0.0",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0"
+  }
+}
