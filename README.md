@@ -1,9 +1,6 @@
 # React-movie-playlist
 
 ![Movie Playlist](https://image.ibb.co/eK5zs9/5b979cf00b175124066495.gif)
-![Movie Playlist](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
-
 
 #### Setting up react project from skretch
 
@@ -65,3 +62,7 @@ Running the movie playlist in development mode-
 Generate production build files:-
 
 > npm run build
+
+
+
+![Movie Playlist](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
