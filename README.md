@@ -1,4 +1,7 @@
 # React-movie-playlist
+[url=https://ibb.co/nQCes9][img]https://preview.ibb.co/k6JKs9/5b979cf00b175124066495.gif[/img][/url]
+![Movie Playlist](https://preview.ibb.co/k6JKs9/5b979cf00b175124066495.gif)
+
 
 #### Setting up react project from skretch
 
@@ -52,7 +55,6 @@ The `.babelrc` contains the code for the presets:
 Thats it!
 
 # Running the movie playlist
-![Movie Playlist](https://ibb.co/nQCes9)
 
 Running the movie playlist in development mode-
 
