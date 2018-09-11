@@ -1,7 +1,7 @@
 # React-movie-playlist
 
-![Movie Playlist](https://preview.ibb.co/k6JKs9/5b979cf00b175124066495.gif)
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Movie Playlist](https://image.ibb.co/eK5zs9/5b979cf00b175124066495.gif)
+![Movie Playlist](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 
